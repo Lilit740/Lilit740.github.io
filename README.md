@@ -3,7 +3,8 @@ ___
 &#128105;&#8205;&#128187;
 Я Лилия, и я начинающий разработчик.
 ---
-Я бываю тут &#10549;
+Чаще всего я тут:
+<br>
 <br>
  <a href="https://vk.com/lily906" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
